@@ -46,63 +46,82 @@ spanning-tree vlan 305,310,315,320,325,720,990 priority 28672
 !
 vlan 105
  name PharmaPlus
+no shut
 !         
 vlan 115
  name DynaLabs
+no shut
 !
 vlan 125
  name Reception
+no shut
 !
 vlan 135
  name Security
+no shut
 !
 vlan 145
  name Facilities
+no shut
 !
 vlan 155
  name Visitor1
+no shut
 !
 vlan 200
  name Physicians
+no shut
 !
 vlan 205
  name ChildrensHealth
+no shut
 !
 vlan 210
  name CoolidgeLab
+no shut
 !
 vlan 215
  name MassageSpa
+no shut
 !
 vlan 220
  name Visitor2
+no shut
 !
 vlan 305
  name Allergist
+no shut
 !
 vlan 310
  name Physiotherapy
+no shut
 !
 vlan 315
  name DentalOffice
+no shut
 !
 vlan 320
  name ENT
+no shut
 !
 vlan 325
  name Visitor3
+no shut
 !
 vlan 720  
  name IT  
+no shut
 !
 vlan 888
  name Closed
 !
 vlan 990
  name DataCenter
+no shut
 !
 vlan 999
  name Native
+no shut
 !
 ! 
 !
