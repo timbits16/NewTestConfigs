@@ -193,6 +193,7 @@ interface GigabitEthernet3/3
 !
 interface Vlan105
  ip address 10.150.8.31 255.255.255.0
+no shut
 !
 ip forward-protocol nd
 !
